@@ -1,0 +1,6 @@
+.bg-img{
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0)), url('/Banner-min.jpg');
+    background-position: right center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
